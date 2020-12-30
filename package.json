@@ -1,0 +1,27 @@
+{
+  "name": "fit-signalr_react",
+  "version": "1.0.1",
+  "description": "Signalr jquery client for react by FIT",
+  "main": "build/signalR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhaidarahmad/FIT-SIGNALR_REACT.git"
+  },
+  "keywords": [
+    "signalr",
+    "react",
+    "asp.net-signalr"
+  ],
+  "author": "ahmad haidar ahmad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahmadhaidarahmad/FIT-SIGNALR_REACT/issues"
+  },
+  "homepage": "https://github.com/ahmadhaidarahmad/FIT-SIGNALR_REACT#readme"
+  "scripts": {
+    "build": "babel src --presets babel-preset-es2015 --out-dir build"
+  },
+}
