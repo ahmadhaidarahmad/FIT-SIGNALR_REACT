@@ -13,13 +13,13 @@ This version currently matches version 2.4.1 of [SignalR/SignalR](https://github
 ### Usage
 
 ```
-npm install --save fit-signalr-react 
+npm i -D fit-signalr_react
 ```
 
 #### ES6 Loader
 
 ```
-import { hubConnection } from 'fit-signalr-react';
+import { hubConnection } from 'fit-signalr_react';
 ```
 
 #### HTML
